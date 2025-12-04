@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:levelup/pages/authScreens/login.dart';
 import 'package:levelup/pages/home/home.dart';
 import 'package:provider/provider.dart';
-import '../../../providers/auth_provider.dart';
+import '../providers/auth_provider.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
